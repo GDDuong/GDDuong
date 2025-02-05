@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GDDuong
+# 👋 Hi, I’m @GDDuong
 - 👀 I’m interested in Minecraft, and MC modding
 - 🌱 I’m currently learning stuff...
 - 💞️ I’m looking to collaborate on my mods
